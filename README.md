@@ -1,3 +1,10 @@
+# Thiuli Dias
+
+Sou estudante de Front-End pelo projeto Senai-Ford. Sou profissional em outras duas areas;Sou Bacharel em Administração e Tecnólogo em Design de interiores.
+Durante 10 anos, fui empresário do ramo de Limpeza, Higienização e Conservação de empresas de grande e médio porte. Umas dessas empresas, era a Vila Romana, que tem várias filiais em todo o Brasil.
+Após anos no ramo, decide mudar de carreira e estudei para ser Design de interiores, que era algo que amava fazer. 
+
+
 ### Hi there 👋
 
 <!--
